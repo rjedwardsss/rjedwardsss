@@ -6,18 +6,7 @@ Profile README note:
 
 <div align="center">
 
-# Hi, I'm RJ Edwards 👋
-### Data Science @ UW–Madison | AI Interaction Analyst @ StageKeep
-
-<a href="https://github.com/rjedwardsss?tab=followers">
-  <img src="https://img.shields.io/github/followers/rjedwardsss?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub Followers" />
-</a>
-<a href="https://komarev.com/ghpvc/?username=rjedwardsss&style=for-the-badge&color=1f2937">
-  <img src="https://komarev.com/ghpvc/?username=rjedwardsss&style=for-the-badge&color=1f2937" alt="Profile Views" />
-</a>
-<a href="https://github.com/rjedwardsss?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0f172a?style=for-the-badge&logo=github" alt="GitHub Repositories" />
-</a>
+# Hi, I'm RJ Edwards
 
 </div>
 
@@ -33,17 +22,27 @@ Profile README note:
 - 🚀 Building technical depth for high-impact internships, software/AI roles, and graduate pathways
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,flask,tensorflow,pytorch,opencv,postgres,mysql,git,github,vscode&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,r,html,css,nextjs,supabase&perline=9" alt="Tech Stack Icons" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1f2937?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/React%20Native-0f172a?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo" alt="Expo" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1f2937?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-0f172a?style=for-the-badge" alt="Data Analysis" />
 </div>
 
 ---
 
-| **Projects / What I'm Building** | **Stats / Presence** |
+| **Projects / What I'm Building** | **Connect** |
 |---|---|
-| **StageKeep AI Workflow Development**  <br> Designing practical AI interaction flows and product-minded workflows for real-world usage. <br><br> **Computer Vision Prototyping**  <br> Applying CV techniques to structured product and analytics scenarios. <br><br> **Data + Software Projects**  <br> Building end-to-end projects that combine modeling, engineering, and clear product outcomes. <br><br> **Currently exploring**  <br> Human-in-the-loop systems, ML evaluation quality, and robust software delivery for AI-backed products. | <img src="https://github-readme-stats.vercel.app/api?username=rjedwardsss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /><br><br><img src="https://streak-stats.demolab.com?user=rjedwardsss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br><br><a href="https://www.linkedin.com/in/rjedwardsss/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a><br><a href="https://rjedwardsss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=firefoxbrowser" alt="Portfolio" /></a><br><a href="mailto:rjedwards105@gmail.com"><img src="https://img.shields.io/badge/Email-rjedwards105%40gmail.com-6b7280?style=for-the-badge&logo=gmail" alt="Email" /></a> |
+| **StageKeep AI Workflow Development**  <br> Designing practical AI interaction flows and product-minded workflows for real-world usage. <br><br> **Computer Vision Prototyping**  <br> Applying CV techniques to structured product and analytics scenarios. <br><br> **Data + Software Projects**  <br> Building end-to-end projects that combine modeling, engineering, and clear product outcomes. <br><br> **Currently exploring**  <br> Human-in-the-loop systems, ML evaluation quality, and robust software delivery for AI-backed products. | <a href="https://www.linkedin.com/in/rjedwardsss/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a><br><a href="https://rjedwardsss.vercel.app/"><img src="https://img.shields.io/badge/Personal%20Website-Visit-111827?style=for-the-badge&logo=firefoxbrowser" alt="Personal Website" /></a><br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=rjedwardsss&bg_color=0d1117&color=93c5fd&line=60a5fa&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" /> |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjedwardsss&bg_color=0d1117&color=93c5fd&line=60a5fa&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man contribution graph" />
 </div>
