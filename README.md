@@ -44,5 +44,5 @@ Profile README note:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man contribution graph" />
+  <img src="https://pacman.abozanona.me?username=rjedwardsss" alt="Pac-Man contribution graph" />
 </div>
