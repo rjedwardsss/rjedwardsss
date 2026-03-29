@@ -14,7 +14,7 @@ Profile README note:
 
 ### A bit more about me:
 
-- 🎓 **University of Wisconsin–Madison** — B.S. Data Science, Computer Science Certificate
+- **University of Wisconsin–Madison** — B.S. Data Science, Computer Science Certificate
 - 💼 **Current:** AI Interaction Analyst at **StageKeep**
 - 🔬 Focused on **AI, machine learning, computer vision, software systems, and sports tech**
 - 🏛️ President, **Kappa Chapter of Alpha Sigma Phi**
