@@ -44,5 +44,5 @@ Profile README note:
 ---
 
 <div align="center">
-  <img src="https://pacman.abozanona.me?username=rjedwardsss" alt="Pac-Man contribution graph" />
+  <img src="./pacman-grid.svg" alt="Pac-Man style grid" />
 </div>
