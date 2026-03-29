@@ -1,97 +1,49 @@
 <!--
-Profile README setup note:
-1) This README must live in a PUBLIC repository named exactly your GitHub username.
-2) Replace every personal link/value as needed (already customized below for RJ Edwards).
-3) Commit this file to the default branch of that username-matching repository.
+Profile README note:
+1) This README should live in the public repository named exactly: rjedwardsss
+2) Update text/links as your experience evolves.
 -->
 
 <div align="center">
 
-# RJ Edwards
-### Data Science @ UW–Madison | AI Interaction Analyst | Building practical ML + software products
+# Hi, I'm RJ Edwards 👋
+### Data Science @ UW–Madison | AI Interaction Analyst @ StageKeep
 
 <a href="https://github.com/rjedwardsss?tab=followers">
-  <img src="https://img.shields.io/github/followers/rjedwardsss?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/rjedwardsss?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub Followers" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=rjedwardsss&style=for-the-badge&color=1f2937">
+  <img src="https://komarev.com/ghpvc/?username=rjedwardsss&style=for-the-badge&color=1f2937" alt="Profile Views" />
 </a>
 <a href="https://github.com/rjedwardsss?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View%20Repositories-111827?style=for-the-badge&logo=github" alt="GitHub Repositories" />
-</a>
-<a href="https://www.linkedin.com/in/rjedwardsss/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0f172a?style=for-the-badge&logo=github" alt="GitHub Repositories" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+### A bit more about me:
 
-I’m RJ Edwards, a Data Science major at the University of Wisconsin–Madison (May 2026) with a Computer Science certificate. I currently work as an **AI Interaction Analyst** at StageKeep, where I focus on building and refining real-world AI workflows. Previously, I was a **Junior Computer Vision Intern** at StageKeep, contributing to applied vision-focused development.
-
-I’m most energized by work at the intersection of **AI, machine learning, computer vision, software engineering, and sports tech**—especially projects that move from idea to product with measurable impact.
-
-Outside of technical work, I serve as **President of the Kappa Chapter of Alpha Sigma Phi**, where I lead with a focus on accountability, communication, and execution.
-
----
-
-## Tech Stack
+- 🎓 **University of Wisconsin–Madison** — B.S. Data Science, Computer Science Certificate (May 2026)
+- 💼 **Current:** AI Interaction Analyst at **StageKeep**
+- 🧠 **Previous:** Junior Computer Vision Intern at **StageKeep**
+- 🔬 Focused on **AI, machine learning, computer vision, software systems, and sports tech**
+- 🏛️ President, **Kappa Chapter of Alpha Sigma Phi**
+- 🚀 Building technical depth for high-impact internships, software/AI roles, and graduate pathways
 
 <div align="center">
-  <!-- Customize skills at https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,flask,opencv,tensorflow,pytorch,postgres,mysql,git,github,vscode&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,flask,tensorflow,pytorch,opencv,postgres,mysql,git,github,vscode&perline=9" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-## Featured Experience / What I’m Working On
-
-- Building practical AI-enabled product features and interaction workflows at **StageKeep**
-- Exploring stronger ML evaluation patterns for production-minded use cases
-- Developing projects across **computer vision**, **data science**, and **software systems**
-- Continuously sharpening fundamentals for internships, technical roles, and graduate pathways
-
-<p>
-  <b>Currently exploring:</b> model evaluation, product-oriented ML pipelines, and human-in-the-loop AI systems.
-</p>
+| **Projects / What I'm Building** | **Stats / Presence** |
+|---|---|
+| **StageKeep AI Workflow Development**  <br> Designing practical AI interaction flows and product-minded workflows for real-world usage. <br><br> **Computer Vision Prototyping**  <br> Applying CV techniques to structured product and analytics scenarios. <br><br> **Data + Software Projects**  <br> Building end-to-end projects that combine modeling, engineering, and clear product outcomes. <br><br> **Currently exploring**  <br> Human-in-the-loop systems, ML evaluation quality, and robust software delivery for AI-backed products. | <img src="https://github-readme-stats.vercel.app/api?username=rjedwardsss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /><br><br><img src="https://streak-stats.demolab.com?user=rjedwardsss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br><br><a href="https://www.linkedin.com/in/rjedwardsss/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a><br><a href="https://rjedwardsss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=firefoxbrowser" alt="Portfolio" /></a><br><a href="mailto:rjedwards105@gmail.com"><img src="https://img.shields.io/badge/Email-rjedwards105%40gmail.com-6b7280?style=for-the-badge&logo=gmail" alt="Email" /></a> |
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjedwardsss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjedwardsss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rjedwardsss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjedwardsss&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <!-- Replace placeholders below with your actual links -->
-  <a href="https://www.linkedin.com/in/rjedwardsss/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://rjedwardsss.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=firefoxbrowser" alt="Portfolio Website" />
-  </a>
-  <a href="mailto:rjedwards105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-6b7280?style=for-the-badge&logo=gmail" alt="Email Contact" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjedwardsss&bg_color=0d1117&color=93c5fd&line=60a5fa&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
