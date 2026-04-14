@@ -17,7 +17,7 @@ Profile README note:
 - **University of Wisconsin–Madison** — B.S. Data Science, Computer Science Certificate
 - **Current:** AI Interaction Analyst at **StageKeep**
 - Focused on **AI, machine learning, computer vision, software systems, and sports tech**
-- President, **Kappa Chapter of Alpha Sigma Phi**
+- Former President, **Kappa Chapter of Alpha Sigma Phi**
 - Building technical depth for high-impact internships, software/AI roles, and graduate pathways
 
 <div align="center">
