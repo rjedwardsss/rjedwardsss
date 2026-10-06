@@ -14,6 +14,7 @@ Profile README note:
 
 ### A bit more about me:
 
+- **Grand Canyon University** — M.S. Computer Science  
 - **University of Wisconsin–Madison** — B.S. Data Science, Computer Science Certificate
 - **Current:** Associate AI Product Engineer at **StageKeep**
 - Focused on **AI, machine learning, computer vision, software systems, and sports tech**
